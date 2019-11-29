@@ -1,3 +1,5 @@
+//program to account the prime number
+
 #include <stdio.h>
 #include <stdlib.h>
 
