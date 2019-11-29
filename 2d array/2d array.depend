@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572441756 source:e:\iti courses\c\projects c\2d array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573447555 source:e:\iti - 9 month\c course\c labs\my test\my testing codes of c course\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+

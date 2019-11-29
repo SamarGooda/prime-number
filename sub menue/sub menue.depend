@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1573015547 source:e:\iti courses\records\sub menue\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1573015547 source:e:\iti courses\c\projects c\sub menue\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+

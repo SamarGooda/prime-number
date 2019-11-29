@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572756882 source:e:\iti courses\c\projects c\maccc text editor\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
